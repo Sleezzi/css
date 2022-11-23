@@ -1,0 +1,7 @@
+#extension {
+    background-color: rgb(128, 128, 128);
+}
+
+#extension .content img {
+    border-radius: 10px;
+}

@@ -1,0 +1,26 @@
+#twitch {
+    background-color: rgb(100, 64, 165);
+}
+
+#infoBackground {
+    width: 100%;
+    height: 25px;
+    background-color: transparent;
+    position: relative;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+
+#info {
+    position: absolute;
+    height: 100%;
+    width: 25px;
+    z-index: 1;
+    border-radius: 5px;
+    background-color: gray;
+}
+
+
+.statut {
+    display: flex;
+}
