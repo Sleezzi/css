@@ -1,0 +1,110 @@
+html {
+    --LightTheme: white;
+    --DarkTheme: #333;
+}
+
+body{
+    place-content: center;
+    height: 100%;
+    width: 100%;
+    margin: 0ch;
+}
+
+#main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    position: absolute;
+}
+
+a img.Back{
+    height: 30px;
+    width: 30px;
+    background-color: transparent;
+}
+
+.background {
+    display: flex;
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.particle {
+    display: flex;
+    background-color: aqua;
+    margin: 0;
+    position: absolute;
+    animation-name: particle;
+    animation-duration: 5s;
+    border: 5px solid rgba(0, 0, 0, 0.3);
+    animation-iteration-count: infinite;
+    overflow: hidden;
+}
+
+#particle1 {
+    height: 20vh;
+    width: 20vh;
+    transform: rotate(15deg);
+    border-radius: 5vh;
+    top: 30%;
+    left: 6%;
+    animation-delay: 0.5s;
+}
+
+#particle2 {
+    height: 30vh;
+    width: 30vh;
+    transform: rotate(140deg);
+    border-radius: 100%;
+    top: 20%;
+    left: 70%;
+    animation-delay: 1s;
+}
+
+#particle3 {
+    height: 25vh;
+    width: 25vh;
+    transform: rotate(335deg);
+    border-radius: 5vh;
+    top: 50%;
+    left: 31%;
+    animation-delay: 1.5s;
+}
+
+@keyframes particle {
+    0% {
+        margin-top: 0;
+    }
+    50% {
+        margin-top: 80px;
+    }
+    100% {
+        margin-top: 0;
+    }
+}
+
+@media (prefers-color-sheme: dark) {
+    body {
+        background-color: var(--DarkTheme);
+        color: var(--LightTheme);
+    }
+    #switchContener {
+        background-color: var(--DarkTheme);
+    }
+}
+
+@media (prefers-color-sheme: light) {
+    body {
+        background-color: var(--LightTheme);
+        color: var(--DarkTheme);
+    }
+    #switchContener {
+        background-color: var(--LightTheme);
+    }
+}

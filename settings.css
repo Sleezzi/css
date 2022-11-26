@@ -1,0 +1,39 @@
+#switchContener {
+    display: flex;
+    height: 25px;
+    width: 50px;
+    background-color: rgb(0, 255, 0);
+    border-radius: 100px;
+    border: 2px solid black;
+    align-items: center;
+    justify-content: flex-end;
+    margin: 0;
+    margin-left: 5px;
+}
+
+#switchButton {
+    display: flex;
+    height: 23px;
+    width: 23px;
+    background-color: white;
+    border-radius: 50px;
+    border: 2px solid black;
+    margin: 0;
+}
+
+#switchContener:hover {
+    cursor: pointer;
+}
+
+footer{
+    display: flex;
+    background-color: gray;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+}

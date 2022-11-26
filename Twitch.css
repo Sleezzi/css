@@ -1,0 +1,219 @@
+.top-nav__menu {
+    background-color: #333 !important;
+}
+.twilight-root {
+    color: white;
+}
+
+.tw-c-background {
+    background-color: white !important
+}
+
+div.simplebar-content {
+    color: white;
+}
+
+body {
+    color: white;
+    font-family: arial;
+    font-size: 1.2rem;
+    line-height: 2rem;
+}
+
+.scrollable-area--suppress-scroll-x .simplebar-content, .scrollable-area--suppress-scroll-x .simplebar-scroll-content {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+    background-color: #333;
+
+}
+
+.chat-line__moderation, .chat-line__status {
+    color: white;
+}
+
+div.tw-border-t.tw-pd-1 {
+    background-color: #333;
+}
+
+.tw-theme--dark .side-nav-card__link {
+    background: #333;
+}
+
+.tw-theme--dark .side-nav-card__title {
+    color: white;
+}
+
+.tw-theme--dark .side-nav-card__metadata {
+    color: white;
+}
+
+.side-nav-show-more-toggle__button {
+    color: white;
+}
+
+.tw-textarea {
+    border: 1px solid black;
+    background: #333;
+    color: white;
+}
+
+.tw-theme--dark .tw-c-text-alt {
+    color: white !important;
+}
+
+.tw-theme--dark .tw-c-text-alt-2 {
+    color: white !important;
+
+}
+
+.tw-c-text-alt-2 {
+    color: white !important;
+}
+
+.tw-c-text {
+    color: white !important;
+}
+
+.chat-line__moderation, .chat-line__status {
+    color: white;
+}
+
+.tw-c-background-alt-2 {
+    background-color: #333 !important;
+}
+
+.tw-theme--dark .tw-checkbox__label {
+    color:  white;
+}
+
+.tw-pd-3 {
+    padding: 3rem !important;
+    background: url(https://78.media.tumblr.com/tumblr_lmr1ogcVjP1qcfn0j.bmp) repeat center fixed! important;
+}
+
+.top-nav__nav-link {
+    color: white;   
+}
+
+.tw-button, .tw-theme--dark .tw-button, .tw-theme--light .tw-button {
+    border: 1px solid #333;
+    background: #333;
+    color: white;
+}
+
+.tw-button-icon--disabled, .tw-button-icon:disabled {
+    border-color: white;
+    background: #333;
+    color: white;
+    cursor: not-allowed;
+
+}
+
+.tw-theme--dark .tw-interactable--hover, .tw-theme--dark .tw-interactable:hover {
+    background: white;
+    color: black;
+}
+
+.tw-theme--dark .tw-input {
+    border: 1px solid #333;
+    background: #333;
+    color: white;
+}
+
+.tw-theme--dark .tw-border-t {
+    border-top: 1px solid #333 !important;
+}
+
+.tw-button-icon {
+    color: white;
+}
+
+.tw-svg__asset--brand {
+    fill: white;
+}
+
+.tw-input {
+    border: 2px solid white;
+    background: #333;
+    color: white;
+    display: block;
+    position: relative;
+    width: 100%;
+    padding: .5rem 1rem;
+    -webkit-transition: border .12s ease-in,-webkit-box-shadow .12s ease-in;
+    transition: border .12s ease-in,-webkit-box-shadow .12s ease-in;
+    transition: box-shadow .12s ease-in,border .12s ease-in;
+    transition: box-shadow .12s ease-in,border .12s ease-in,-webkit-box-shadow .12s ease-in;
+    border-radius: 0;
+    outline: 0;
+    font-family: inherit;
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+.tw-input:focus, .tw-theme--dark .tw-input:focus, .tw-theme--light .tw-input:focus {
+    border-color: white;
+  background: white !important;
+}
+
+.tw-theme--dark .tw-c-text {
+    color: white !important;
+}
+
+.tw-theme--dark .tw-c-background {
+    background-color: white !important;
+}
+
+.tw-theme--dark .tw-c-background-alt {
+    background-color: white !important;
+}
+
+.blue-bar, .tw-theme--dark .blue-bar, .tw-theme--light .blue-bar {
+    background: #333;
+    color: white !important
+}
+
+.side-nav_overlay-wallpaper {
+    background-color: #333;
+    color: white !important;
+}
+
+.tw-dp-3 {
+    background: #333 url(https://78.media.tumblr.com/tumblr_lmr1ogcVjP1qcfn0j.bmp) repeat center fixed! important;
+}
+
+.tw-pd-t-2 .tw-pd-x-3 {
+    
+    background: #333 url(https://78.media.tumblr.com/tumblr_lmr1ogcVjP1qcfn0j.bmp) repeat center fixed! important;
+    
+}
+
+.channel-header {
+    background-color: #f9ceff;
+    border-bottom: 1px solid #dad8de;
+}
+
+.channel-header__item {
+    color: white;
+}
+
+.channel-header__item-count {
+    color: white;
+}
+
+.follow-btn__dropdown-toggle, .tw-theme--dark .follow-btn__dropdown-toggle, .tw-theme--light .follow-btn__dropdown-toggle {
+    background: #333;
+    color: white;
+}
+
+.tw-c-background-alt {
+    background-color: #333 !important;
+}
+
+.CoreText-sc-1txzju1-0.grGUPN {
+  color: white !important;
+}
+
+.CoreText-sc-1txzju1-0.bApHMU {
+  color: white !important;
+}
